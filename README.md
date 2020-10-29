@@ -1,6 +1,6 @@
 # Project Details
 
-This project uses the Unity Reacher [click here]https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher environment to train an agent that has a double-jointed. 
+This project uses the [Unity Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment to train an agent that has a double-jointed arm. 
 
 A reward of +0.1 is provided for each step that the agent's hand is in the goal location.   The goal of the agent is to maintain the goal position for as long as possible.  
 
